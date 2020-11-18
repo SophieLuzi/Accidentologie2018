@@ -23,9 +23,9 @@ Conversion notes:
 ----->
 
 
-**France – Accidentologie routière **
+**<h1>France – Accidentologie routière<h1/>**
 
-**En 2018, quel a été l’impact des conditions météorologiques sur l’accidentologie routière ?  Quels ont été les usagers les plus impactés ?**
+**<h2>En 2018, quel a été l’impact des conditions météorologiques sur l’accidentologie routière ?  Quels ont été les usagers les plus impactés ?<h2/>**
 
 Après quatre années de stagnation ou de hausse de la mortalité routière en France, l’année 2018 apparaît comme l’année durant laquelle les statistiques de la Sécurité Routière ont enregistré les taux de mortalité les plus bas de son histoire. Cependant, tous les usagers ne sont pas épargnés au même titre.
 
@@ -35,7 +35,7 @@ En parallèle, nous avons focalisé l’analyse pour savoir quelle catégorie de
 
 Ainsi, qu’il pleuve, qu’il neige, qu’il vente, qu’il fasse beau ou qu’il y ait du brouillard, le nombre d’accidents a tendance à varier, et les usagers de la route ne vont pas être impactés de la même façon dans leur conduite, et ne se comportent pas de la même manière. La gravité même de l’accident serait en corrélation avec les conditions météorologiques.
 
-**Une base de données sur les accidents corporels de la circulation routière en 2018**
+**<h2>Une base de données sur les accidents corporels de la circulation routière en 2018<h2/>**
 
 Dans cette analyse, nous nous basons sur les données principales trouvées sur la [base de données des accidents corporels de la route](https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2019/#_) publiée annuellement par le ministère de l’Intérieur. Nous nous sommes concentrées sur 2018 pour étudier, le temps d’une année, l’impact des conditions météorologiques sur l’accidentologie routière.
 
@@ -78,8 +78,8 @@ Pour la gravité de l’accidentologie, nous les avons regroupé  sous 3 grandes
 
 Pour comprendre l’étude qui suit, il faut avoir en tête qu’un accident présenté comme Accident de voiture est un accident au sein duquel au moins une voiture a été impliquée; un accident de cycliste est un accident au sein duquel au moins un cycliste a été impliqué; un accident de motocycliste est un accident au sein duquel au moins un motocycliste a été impliqué. Cela implique la présence possible d’une catégorie similaire ou différente de véhicule impliqué dans ce même accident. De ce fait, il en est de même concernant la gravité de l’accidentologie. Ex: Un accident de voiture mortel est un accident au sein duquel au moins une voiture a été impliqué et au moins un usager a été tué. Il peut s’agir de l’usager de la voiture, comme il peut s’agir de l’usager de l’autre catégorie de véhicule impliqué dans l’accident. Voilà les limites de notre étude.
 
-**Près des trois quarts des accidents de la route impliquent des voitures en condition météorologique dite normale \
-<span style="text-decoration:underline;">Nombre d’accidents corporels de la route en 2018 par véhicules, en fonction des conditions météorologiques</span>**
+**<h2>Près des trois quarts des accidents de la route impliquent des voitures en condition météorologique dite normale<h2/> 
+*Nombre d’accidents corporels de la route en 2018 par véhicules, en fonction des conditions météorologiques*
 
 &lt;div class="flourish-embed flourish-hierarchy" data-src="visualisation/4391411">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
 
@@ -94,7 +94,7 @@ La majorité des accidents en 2018 ont impliqué au moins une voiture et se sont
 
 Sachant que les conducteurs de voitures sont les usagers les plus fréquents sur les routes, nous pouvons sur la base de cette visualisation émettre l’hypothèse que ces usagers sont moins attentifs à leur conduite et à la route quand les conditions météorologiques s’avèrent en réalité être plus favorables, ce qui pourrait expliquer les données.
 
-**Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques \
+**Une répartition irrégulière des usagers de la route en fonction des conditions météorologiques 
 <span style="text-decoration:underline;">Répartition des victimes selon le mode de déplacement, par différentes conditions météorologiques, en 2018, en France, en pourcentages</span>**
 
 &lt;div class="flourish-embed flourish-chart" data-src="visualisation/4279979">&lt;script src="https://public.flourish.studio/resources/embed.js">&lt;/script>&lt;/div>
